@@ -6,7 +6,7 @@ const nodemailer = require('nodemailer');
 
 
 //下载 的文件 地址 （https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi）
-let fileURL = 'https://github.com/TaurusXi/GuideBackgroundColorAnimation.git';
+let fileURL = 'https://github.com/Yalantis/StarWars.Android.git';
 
 
 //下载保存的文件路径
